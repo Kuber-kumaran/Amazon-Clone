@@ -3,3 +3,7 @@
  export {default as HomepageCard} from './HomepageCard';
  export {default as CarouselProduct} from './CarouselProduct';
  export {default as CarouselCategory} from './CarouselCategory';
+ export {default as Navbar} from './Navbar';
+ export {default as ProductPage} from './ProductPage';
+ export {default as Checkout} from './Checkout';
+ export {default as SearchResults} from './SearchResults';
